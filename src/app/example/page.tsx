@@ -1,7 +1,7 @@
 "use client"
 
 import styles from "./page.module.css"
-import {Button} from "@/components/Button.tsx"
+import {Button} from "@/components/Button"
 import {useState, useEffect} from "react"
 
 function Page() {
